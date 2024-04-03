@@ -1,0 +1,252 @@
+body{
+    font-family: "Edu NSW ACT Foundation", cursive;
+    background-color: black;
+    color:white;
+}
+.head{
+    background-color: black;
+    color:white;
+}
+
+.head h1
+{
+    text-align: center;
+    font-family: "Edu NSW ACT Foundation", cursive;
+    letter-spacing: 5px;
+    font-size:40px;
+    padding:5px;
+}
+.nav
+{
+    font-size: 30px;
+}
+.nav a li
+{
+    list-style-type: none;
+    display: inline-block;
+    padding:10px 60px;
+    color:white;
+    margin-left: 20px;
+}
+#home
+{
+    width:1080px;
+    height:400px;
+    font-size:40px;
+    margin-left: 200px;
+    margin-top: 200px;
+    letter-spacing: 5px;
+}
+#skills
+{
+    width:800px;
+    height:400px;
+}
+.box1 img
+{
+    width:150px;
+    height:150px;
+    
+}
+#images
+{
+    float: right;
+    margin-right: 80px;
+    margin-top: -350px;
+}
+#skills
+{
+    width:1000px;
+    height:auto;
+    margin-left: 250px;
+    column-count: 3;
+}
+.box2 img
+{
+    width:150px;
+    height:150px;
+}
+.box3 img
+{
+    width:150px;
+    height:150px;
+}
+.box4 img
+{
+    width:150px;
+    height:150px;
+}
+.box5 img
+{
+    width:150px;
+    height:150px;
+}
+.box6 img
+{
+    width:150px;
+    height:150px;
+}
+
+#project
+{
+    margin-left: 250px;
+}
+.container
+{
+    width:1000px;
+    height:300px;
+    display: flex;
+    flex-direction: row;
+}
+.container1
+{
+    width:1000px;
+    height:400px;
+    display: flex;
+    flex-direction: row;
+}
+.stock
+{
+    width:350px;
+    height:250px;
+    text-align: justify;
+    border:1px solid white;
+    padding:10px;
+    border-radius:20px;
+    margin: 10px;
+}
+.web
+{
+    width:350px;
+    height:250px;
+    text-align: justify;
+    border:1px solid white;
+    padding:10px;
+    border-radius:20px;
+    margin: 10px;
+}
+.tic
+{
+    width:350px;
+    height:250px;
+    text-align: justify;
+    border:1px solid white;
+    padding:10px;
+    border-radius:20px;
+    margin: 10px;
+}
+.ux
+{
+    width:290px;
+    height:300px;
+    text-align: justify;
+    border:1px solid white;
+    padding:10px;
+    border-radius:20px;
+    margin: 10px;
+}
+.ui
+{
+    width:290px;
+    height:300px;
+    text-align: justify;
+    border:1px solid white;
+    padding:10px;
+    border-radius:20px;
+    margin: 10px;
+}
+.iot
+{
+    width:290px;
+    height:300px;
+    text-align: justify;
+    border:1px solid white;
+    padding:10px;
+    border-radius:20px;
+    margin: 10px;
+}
+#hobbies 
+{
+    margin-left: 250px;
+}
+.hob
+{
+    display: flex;
+    flex-direction: row; 
+    width:800px;
+}
+#hobbies img
+{
+    width:270px;
+    height:250px;
+}
+#about
+{
+    margin-left: 260px;
+    
+}
+.content
+{
+    
+}
+.self
+{
+    padding:20px 40px;
+    border:1px solid white;
+    border-radius:20px;
+    width:150px;
+    text-align: center;
+    margin: 20px;
+}
+.s1
+{
+    padding:20px 40px;
+    border:1px solid white;
+    border-radius:20px;
+    width:150px;
+    text-align: center;
+    margin: 20px;
+}
+.M
+{
+    padding:20px 40px;
+    border:1px solid white;
+    border-radius:20px;
+    width:150px;
+    text-align: center;
+    margin: 20px;
+}
+.s2
+{
+    padding:20px 40px;
+    border:1px solid white;
+    border-radius:20px;
+    width:150px;
+    text-align: center;
+    margin: 20px;
+}
+.content img 
+{
+    float:right;
+    margin-right:200px;
+    margin-top:-350px;
+}
+#contact
+{
+    margin-left: 160px;
+    padding:5px;
+    display: flex;
+    flex-direction: column;
+}
+.deg
+{
+    display: none;
+}
+.self:hover +.deg
+{
+    color:white;
+}
+.c img{
+    width:150px;
+    height:150px;
+}
